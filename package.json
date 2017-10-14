@@ -1,0 +1,26 @@
+{
+  "name": "ocr-playground",
+  "version": "1.0.0",
+  "description": "OCR experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinniegarcia/ocr-playground.git"
+  },
+  "keywords": [
+    "ocr",
+    "tesseract",
+    "imagemagick",
+    "document",
+    "reading"
+  ],
+  "author": "vinnie garcia <vg@vinniegarcia.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinniegarcia/ocr-playground/issues"
+  },
+  "homepage": "https://github.com/vinniegarcia/ocr-playground#readme"
+}
