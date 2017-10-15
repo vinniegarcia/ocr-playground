@@ -1,3 +1,3 @@
-const read = require('./src/read/');
-
-read(process.argv[2]).then((txt) => console.log('text: ' + txt));
+require('babel-core/register');
+const app = require('./src/app/index').default;
+app.listen(9090);
